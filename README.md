@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Ashish 👋
 
-<!--
-**ashishpal-dev/ashishpal-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Android Developer with 3 years of experience building scalable Android applications using Kotlin and modern Android architecture.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- Kotlin
+- MVVM
+- Clean Architecture
+- Coroutines + Flow + StateFlow
+- Hilt
+- Retrofit + OkHttp
+- Room Database
+- Firebase
+- Jetpack Components
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📱 What I Work On
+- Government Android applications
+- Offline-first systems
+- REST API integration
+- Production-ready Android apps
+- Performance optimization
+
+## 🛠 Tools
+Android Studio • Git • GitHub • Postman • Firebase Console
+
+## 🌱 Currently Learning
+- Jetpack Compose
+- Advanced Android Architecture
+- Android Performance Optimization
+
+## 📫 Connect With Me
+LinkedIn: https://linkedin.com/in/ashishpal6605
